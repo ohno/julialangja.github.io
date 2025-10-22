@@ -3,7 +3,11 @@
 
 # 日本で Julia を利用している研究室一覧
 
-日本国内でJuliaを活用している研究室をまとめます。追加したい研究室がある場合は[こちらのファイル](https://github.com/JuliaLangJa/julialangja.github.io/blob/main/labs.md)に追記してプルリクエストを送ってください。50音順にソートしてください。コミットログは英語でも日本語でも大丈夫です。ご意見・ご提案は [Issues](https://github.com/JuliaLangJa/julialangja.github.io/issues) へお気軽にご連絡ください。
+日本国内でJuliaを活用している研究室をまとめます。
+追加したい研究室がある場合は[こちらのファイル](https://github.com/JuliaLangJa/julialangja.github.io/blob/main/labs.md)に追記してプルリクエストを送ってください。
+50音順にソートしてください。
+コミットログは英語でも日本語でも大丈夫です。
+ご意見・ご提案は [Issues](https://github.com/JuliaLangJa/julialangja.github.io/issues) へお気軽にご連絡ください。
 
 ## テンプレート
 
